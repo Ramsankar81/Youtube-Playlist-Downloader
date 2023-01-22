@@ -1,6 +1,6 @@
 # Youtube-Playlist-Downloader
 
-First download the pytube library\n
+First download the pytube library <br/>
 step 1:
   pip install pytube
 step 2:
